@@ -31,11 +31,11 @@ MoonTech Game Table (MTGT) is a 3D fantasy role-playing game with a dungeon buil
 - A level builder, a character creator, barter trading, voiced dialogue, and live music from GAGE Core
 - Builds for iPad (TestFlight), Mac (notarized) and Windows
 
-<img src="images/mtgt-title.jpg" alt="MTGT title screen" width="720">
+<img src="images/mtgt-title-108.jpg" alt="MTGT title screen" width="720">
 
-<img src="images/mtgt-exploring.jpg" alt="Exploring the graveyard road" width="356"> <img src="images/mtgt-build.jpg" alt="Building a dungeon" width="356">
+<img src="images/mtgt-toll-108.jpg" alt="The Sexton meets the party in the village of the Toll at Midnight" width="356"> <img src="images/mtgt-builder-108.jpg" alt="Building the Bone Cellar in the dungeon builder" width="356">
 
-<sub>Captures from a development build. Some art is licensed stand-in work; its creators are credited at [moontechstudios.com/mtgt-credits.html](https://moontechstudios.com/mtgt-credits.html).</sub>
+<sub>Captures from development build 108. I made the title painting and the interface art with Midjourney. Much of the 3D art is licensed stand-in work by other creators: Necropolis by Cryptic Realms; Demonic Village, Fantasy Dungeon, Dwarven Dungeons and Merlin's Cave by Leartes Studios; Medieval Dungeon by Infuse Studio; Dungeon Environment by PackDev; Modular Medieval Tavern by Danilo Waselciac; Medieval Village Props by DuplexG; Ancient Treasures by Dekogon Studios; Soul: Cave by Epic Games; Quixel Megascans; trees from Poly Haven; figures and animations from Adobe Mixamo and Quaternius; fonts by Natanael Gama (Cinzel) and Huerta Tipográfica (Alegreya Sans). Earlier stand-in models are credited at [moontechstudios.com/mtgt-credits.html](https://moontechstudios.com/mtgt-credits.html).</sub>
 
 ---
 
